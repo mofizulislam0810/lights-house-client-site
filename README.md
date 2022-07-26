@@ -1,8 +1,8 @@
 # Light,s House
 
 This project name was [Light,s House]
-Client site: (https://decorative-light-f50ca.web.app//).
-Server site: (https://cryptic-stream-18194.herokuapp.com/).
+Client site:- (https://decorative-light-f50ca.web.app//).
+Server site:- (https://cryptic-stream-18194.herokuapp.com/).
 
 ## Available Features
 
